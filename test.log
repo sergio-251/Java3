@@ -1,0 +1,11 @@
+2019-07-28 19:15:53,140 INFO s.MainServer [main] Сервер успешно запущен!
+2019-07-28 22:20:50,819 INFO s.MainServer [main] Сервер успешно запущен!
+2019-07-28 22:24:44,388 INFO s.MainServer [main] Сервер успешно запущен!
+2019-07-28 22:33:20,770 INFO s.MainServer [main] Сервер успешно запущен!
+2019-07-28 22:39:00,240 INFO s.MainServer [main] Сервер успешно запущен!
+2019-07-28 22:53:49,520 INFO s.MainServer [main] Сервер успешно запущен!
+2019-07-28 22:54:25,401 INFO s.MainServer [main] Сервер успешно запущен!
+2019-07-28 22:54:49,586 INFO s.MainServer [main] Сервер успешно запущен!
+2019-07-28 22:55:10,121 INFO s.MainServer [main] Сервер успешно запущен!
+2019-07-28 22:55:10,124 ERROR s.MainServer [main] Ошибка при подключении: Socket is not bound yet
+2019-07-28 22:55:45,175 INFO s.MainServer [main] Сервер успешно запущен!
