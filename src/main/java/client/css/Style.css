@@ -1,0 +1,25 @@
+.VBox .content {
+    -fx-font-family: Lucida Console;
+
+}
+
+.menu-bar {
+    -fx-background-color: #3c3f41;
+}
+
+.menu-bar .container .menu:openvertically * {
+    -fx-text-fill: #bbbbbb;
+}
+
+.menu-bar .container .menu:openvertically .arrow-button {
+    -fx-text-fill: #499c54;
+}
+
+.button {
+     -fx-background-color: #bbbbbb;
+ }
+
+.button :disabled {
+    -fx-background-color: #bbbbbb;
+}
+
