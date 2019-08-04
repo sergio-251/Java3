@@ -35,7 +35,7 @@ public class Snake {
         int currentM_min = 1;
         snakeArray = new int[n][m];
         int k = 1;
-        while (k <= m * n){
+        while (k <= m * n) {
 
             for (int i = currentM_min - 1; i < currentM_max; i++) {
                 if (k > m * n) break;
